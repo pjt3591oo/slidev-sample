@@ -1,3 +1,45 @@
+# Page 3
+
+You can directly use Windi CSS and Vue components to style and enrich your slides.
+
+<!-- <div class="p-3"> -->
+  <!-- <Tweet :id="20" /> -->
+<!-- <div> -->
+
+---
+layout: test-cover
+---
+
+# Page 2
+
+Directly use code blocks for highlighting123
+
+<Test></Test>
+
+```ts
+console.log('Hello, World!')
+```
+
+---
+
+# What is Slidev?
+
+Slidev is a slides maker and presenter designed for developers, consist of the following features
+  
+- 📝 **Text-based** - focus on the content with Markdown, and then style them later
+- 🎨 **Themable** - theme can be shared and used with npm packages
+- 🧑‍💻 **Developer Friendly** - code highlighting, live coding with autocompletion
+- 🤹 **Interactive** - embedding Vue components to enhance your expressions
+- 🎥 **Recording** - built-in recording and camera view
+- 📤 **Portable** - export into PDF, PNGs, or even a hostable SPA
+- 🛠 **Hackable** - anything possible on a webpage
+
+<br>
+<br>
+
+Read more about [Why Slidev?](https://sli.dev/guide/why)
+
+
 ---
 # try also 'default' to start simple
 theme: seriph
@@ -25,26 +67,6 @@ Presentation slides for developers
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
 -->
-
----
-
-# What is Slidev?
-
-Slidev is a slides maker and presenter designed for developers, consist of the following features
-  
-- 📝 **Text-based** - focus on the content with Markdown, and then style them later
-- 🎨 **Themable** - theme can be shared and used with npm packages
-- 🧑‍💻 **Developer Friendly** - code highlighting, live coding with autocompletion
-- 🤹 **Interactive** - embedding Vue components to enhance your expressions
-- 🎥 **Recording** - built-in recording and camera view
-- 📤 **Portable** - export into PDF, PNGs, or even a hostable SPA
-- 🛠 **Hackable** - anything possible on a webpage
-
-<br>
-<br>
-
-Read more about [Why Slidev?](https://sli.dev/guide/why)
-
 
 ---
 
